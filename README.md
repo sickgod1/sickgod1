@@ -3,7 +3,7 @@
 > neofetch
 ```
 
-<a href="https://sickgod.xyz"><img align="left" src="https://avatars.githubusercontent.com/u/94311438?s=400&u=147c20c5ed85067cc6a1b655cffd0eff6924faf9&v=4" alt="sickgod.xyz" width="298" /><a/>
+<a href="https://sickgod.xyz"><img align="left" src="https://i.postimg.cc/9XgKJdKg/image-4.png" alt="sickgod.xyz" width="298" /><a/>
 
 ```csharp
 sickgod@github
@@ -11,7 +11,7 @@ sickgod@github
 OS: Microsoft Windows 10 Enterprise
 Shell: zsh 5.7.1
 Pronouns: He/Him
-Age: 14 
+Age: 15 
 Location: EU
 Frameworks: NextJs, React
 Languages:  HTML, CSS

@@ -3,7 +3,7 @@
 > neofetch
 ```
 
-<a href="https://sickgod.xyz"><img align="left" src="https://i.postimg.cc/9XgKJdKg/image-4.png" alt="sickgod.xyz" width="298" /><a/>
+<a href=/><a/>
 
 ```csharp
 sickgod@github

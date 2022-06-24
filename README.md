@@ -13,7 +13,6 @@ Shell: zsh 5.7.1
 Pronouns: He/Him
 Age: 15 
 Location: EU
-Frameworks: NextJs, React
 Languages:  HTML, CSS
 Learning: JavaScript, TypeScript, C#, C++, Python
 Hobbies: Coding, Gaming, Design

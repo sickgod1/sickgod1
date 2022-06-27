@@ -5,7 +5,7 @@
 
 <a href=/><a/>
 
-```js
+```cpp
 sickgod@github
 -------------------------
 OS: Microsoft Windows 10 Enterprise

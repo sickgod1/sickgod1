@@ -8,7 +8,7 @@
 ```ts
 sickgod@github
 -------------------------
-OS: Microsoft Windows 10 Enterprise
+OS: Microsoft Windows 11 Enterprise
 Shell: zsh 5.7.1
 Pronouns: He/Him
 Age: 15 

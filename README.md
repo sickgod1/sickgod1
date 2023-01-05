@@ -14,7 +14,6 @@ Pronouns: He/Him
 Age: 15 
 Location: EU
 Languages:  JavaScript, TypeScript
-Learning:  C#, C++, Python
 Hobbies: Coding, Gaming, Design
 Discord: sickgod#2333
 ```

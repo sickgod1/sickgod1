@@ -1,10 +1,3 @@
-
-<p align="center">
-   <a href="https://discord.com/users/935094877618835506" target="_blank" rel="nofollow">
-      <img src="https://lanyard.cnrad.dev/api/935094877618835506" alt="Discord Presence" align="center">
-   </a>
-</p>
-
 ```bash
 > neofetch
 ```
@@ -22,4 +15,9 @@ Location: EU
 Languages:  JavaScript, TypeScript
 Hobbies: Coding, Gaming, Design
 Discord: sickgod#2333
-```
+`
+<p align="center">
+   <a href="https://discord.com/users/935094877618835506" target="_blank" rel="nofollow">
+      <img src="https://lanyard.cnrad.dev/api/935094877618835506" alt="Discord Presence" align="center">
+   </a>
+</p>

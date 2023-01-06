@@ -1,6 +1,6 @@
 
 <p align="center">
-   <a href="https://discord.com/users/290131759159443457" target="_blank" rel="nofollow">
+   <a href="https://discord.com/users/935094877618835506" target="_blank" rel="nofollow">
       <img src="https://lanyard-profile-readme.vercel.app/api/290131759159443457?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="center">
    </a>
 </p>

@@ -10,11 +10,11 @@ sickgod@github
 OS: Microsoft Windows 11 Pro
 Shell: zsh 5.7.1
 Pronouns: He/Him
-Age: 15 
+Age: 16 
 Location: EU
 Languages:  JavaScript, TypeScript
 Hobbies: Coding, Gaming, Design
-Discord: sickgod#2333
+Discord: sickgod666
 ```
 <a href=/><a/>
 <p align="center">
